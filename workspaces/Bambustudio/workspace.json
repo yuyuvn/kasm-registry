@@ -18,11 +18,11 @@
   ],
   "compatibility": [
     {
-      "version": "02.04.x",
-      "image": "lscr.io/linuxserver/bambustudio:02.04.00",
+      "version": "1.18.x",
+      "image": "lscr.io/linuxserver/bambustudio:lastest",
       "uncompressed_size_mb": 1250,
       "available_tags": [
-        "02.04.00"
+        "lastest"
       ]
     }
   ]
