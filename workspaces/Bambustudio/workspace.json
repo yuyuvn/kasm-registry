@@ -19,10 +19,10 @@
   "compatibility": [
     {
       "version": "1.18.x",
-      "image": "lscr.io/linuxserver/bambustudio:lastest",
+      "image": "lscr.io/linuxserver/bambustudio:latest",
       "uncompressed_size_mb": 1250,
       "available_tags": [
-        "lastest"
+        "latest"
       ]
     }
   ]
