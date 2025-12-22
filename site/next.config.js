@@ -4,7 +4,7 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
+    name: 'Clicia custom',
     description: 'Clicia Kasm registry.',
     icon: '/img/logo.svg',
     listUrl: 'https://yuyuvn.github.io/kasm-registry/',
