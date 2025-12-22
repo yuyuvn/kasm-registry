@@ -1,20 +1,22 @@
 {
-  "friendly_name": "Bambu Studio",
-  "image_src": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/bambustudio-logo.png",
   "description": "3D printer slicer for Bambu",
-  "cores": 2,
-  "memory": 2768,
-  "gpu_count": 0,
-  "cpu_allocation_method": "Inherit",
   "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/bambustudio-logo.png",
   "categories": [
     "Development"
   ],
-  "require_gpu": false,
-  "enabled": true,
-  "image_type": "Container",
-  "name": "lscr.io/linuxserver/bambustudio:latest",
+  "friendly_name": "Bambu Studio",
   "architecture": [
     "amd64"
+  ],
+  "compatibility": [
+    {
+      "version": "02.04.x",
+      "image": "lscr.io/linuxserver/bambustudio:02.04.00",
+      "uncompressed_size_mb": 1250,
+      "available_tags": [
+        "02.04.00"
+      ]
+    }
   ]
 }
