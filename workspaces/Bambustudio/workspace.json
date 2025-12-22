@@ -1,7 +1,7 @@
 {
   "description": "3D printer slicer for Bambu",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/bambustudio-logo.png",
+  "image_src": "bambustudio.png",
   "categories": [
     "Development"
   ],
