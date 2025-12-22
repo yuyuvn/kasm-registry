@@ -5,9 +5,9 @@ const nextConfig = {
   distDir: '../public',
   env: {
     name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    description: 'Clicia Kasm registry.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://yuyuvn.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
